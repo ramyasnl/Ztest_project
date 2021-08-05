@@ -10,11 +10,10 @@ i am changing something here and using GUI i am going to pull it to the branch a
 
 
 ## I'm a Homemaker, MOM, Developer, and a Teacher!!!
-<img src="https://brand.berkeley.edu/wp-content/uploads/2016/10/ucbseal_139_540.png" width="30" height="30" /> I just finished Bootcamp in Data Analytics Certified by University Of California Berkeley!! </br>
-🌱 Currently I’m learning everything and Always happy to learn new things 🤣</br>
+<img src="https://brand.berkeley.edu/wp-content/uploads/2016/10/ucbseal_139_540.png" width="30" height="30" /> Completed Bootcamp in Data Analytics Certified by University Of California Berkeley!! </br>
+🌱 Currently I’m learning Machine Learning & Always happy to learn new things 🤣</br>
 👯 I’m looking to collaborate with other content creators</br>
-🥅 2021 Goals: - Contribute more to Open Source projects</br>
-                - To become a Data Analytics Professional</br> 
+🥅 2021 Goals: - Contribute more to Open Source projects,To be a Data Analytics Professional</br>
 ⚡ Fun fact: I love to bike,cook,teach and listen to music </br>
 
 ### Connect with me:
