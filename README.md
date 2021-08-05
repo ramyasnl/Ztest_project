@@ -26,13 +26,23 @@ i am changing something here and using GUI i am going to pull it to the branch a
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.com/tags/header/)
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="MongoDB" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
 [<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-
+[<img align="left" alt="GitHub" width="130px" src="https://github.com/ramyasnl/Ztest_project/blob/main/jupyter_python_numpy.width-808%20(2).png" />](https://jupyter.org/)
+[<img align="left" alt="GitHub" width="45px" src="https://github.com/ramyasnl/Ztest_project/blob/main/colab.png" />](https://research.google.com/colaboratory/)
+[<img align="left" alt="GitHub" width="45px" src="https://github.com/ramyasnl/Ztest_project/blob/main/postgres.png" />](https://www.postgresql.org/)<br />
 <br />
+[<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/s3.png" />](https://aws.amazon.com/s3/)
+[<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/plotlyM.png" />](https://plotly.com/dash/)
+[<img align="left" alt="GitHub" width="150px" src="https://github.com/ramyasnl/Ztest_project/blob/main/rds.png" />](https://aws.amazon.com/rds/)
+[<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/flask.png" />](https://flask.palletsprojects.com/)
+[<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/seaborn.png" />](http://seaborn.pydata.org/introduction.html)
+[<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/matplotlib.jfif" />](https://matplotlib.org/)
+[<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/scikit.png" />](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+[<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/tensorflow.png" />](https://www.tensorflow.org/resources/learn-ml)
 <br />
