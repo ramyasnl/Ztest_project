@@ -19,8 +19,7 @@ i am changing something here and using GUI i am going to pull it to the branch a
 
 ### Connect with me:
 <!-- [<img align="left" alt=" | Gmail" width="22px" src=""https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"" />] -->
-[<a target="_blank" href="manivannan.ramya@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
-  <!-- (https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=manivannan.ramya@gmail.com) -->
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=manivannan.ramya@gmail.com)
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/home)
 [<img align="left" alt="https://www.linkedin.com/in/ramya-saravanan-94aa9177/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ramya-saravanan-94aa9177/)
 [<img align="left" alt=" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/)
