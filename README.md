@@ -9,12 +9,12 @@ i am changing something here and using GUI i am going to pull it to the branch a
 # Hi there, I'm RAMYA  👋
 
 
-## I'm a Homemaker, MOM, Developer, and a Teacher!!!
+## I'm a Wife, MOM, Developer, and Teacher!!!
 <img src="https://brand.berkeley.edu/wp-content/uploads/2016/10/ucbseal_139_540.png" width="30" height="30" /> Completed Bootcamp in Data Analytics Certified by University Of California Berkeley!! </br>
-🌱 Currently I’m learning Machine Learning & Always happy to learn new things 🤣</br>
+🌱 Currently I’m learning everything & Always happy to learn 🤣</br>
 👯 I’m looking to collaborate with other content creators</br>
 🥅 2021 Goals: - Contribute more to Open Source projects,To be a Data Analytics Professional</br>
-⚡ Fun fact: I love to bike,cook,teach and listen to music </br>
+⚡ Fun fact: I love biking,cooking,teaching and listening to music </br>
 
 ### Connect with me:
 <!-- [<img align="left" alt=" | Gmail" width="22px" src=""https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"" />] -->
@@ -45,4 +45,11 @@ i am changing something here and using GUI i am going to pull it to the branch a
 [<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/matplotlib.jfif" />](https://matplotlib.org/)
 [<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/scikit.png" />](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 [<img align="left" alt="GitHub" width="80px" src="https://github.com/ramyasnl/Ztest_project/blob/main/tensorflow.png" />](https://www.tensorflow.org/resources/learn-ml)
-<br />
+</br>
+</br>
+
+### Languages Used in this Repo <br/> 
+
+
+
+[<img align="center" alt="GitHub" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasnl&layout=compact"/>](https://github.com/ramyasnl/github-readme-stats)
